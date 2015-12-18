@@ -1,0 +1,5 @@
+Hi! My name is Vedant!
+Our Project is based on encrypting and storing the file on cloud(Dropbox).
+I am here with my project partner Kenil.
+I am going to explain the encryption and upload part of the file.
+And Kenil is going to explain the decryption and download part of the project.
